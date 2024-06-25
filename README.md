@@ -1,13 +1,4 @@
-### Hi there i'm Miltonheber👋
-
-
-
-
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning Python (Django) 
-- 👯 I’m looking to collaborate on Python projects
+### I'm Milton Heber👋
 
 <div>
 
